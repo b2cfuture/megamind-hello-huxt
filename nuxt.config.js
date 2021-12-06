@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Hello Nuxt!',
+    title: 'Welcome to b2cfuture.com!',
     htmlAttrs: {
       lang: 'en'
     },
